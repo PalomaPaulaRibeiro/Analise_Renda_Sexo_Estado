@@ -2,6 +2,10 @@
 
 Este projeto tem como objetivo analisar a distribuição da renda média por estado e sexo, utilizando um pequeno conjunto de dados de exemplo. A análise foi feita em Python com a biblioteca Pandas para manipulação de dados e Plotly para visualização interativa.
 
+<img width="1168" height="525" alt="newplot (1)" src="https://github.com/user-attachments/assets/de0fe90b-2fed-47ea-8939-771a13832478" />
+
+
+
 ## 📝O que foi feito
 
 - Criação de um DataFrame com dados fictícios
